@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5796e30eb11d1290",
+            "id": "f20ef5e2b2f92b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📈/Projeto M.md",
+                "file": "🤓/Projeto M.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f20ef5e2b2f92b57",
+            "id": "2512c19a65b3f8c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻/Git 😾.md",
+                "file": "🏛/Imob.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻/Git 😾.md",
+                "file": "🏛/Imob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻/Git 😾.md",
+                "file": "🏛/Imob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻/Git 😾.md"
+                "file": "🏛/Imob.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f20ef5e2b2f92b57",
+  "active": "211be20e904e03ba",
   "lastOpenFiles": [
-    "Untitled.md",
+    "🤓/Projeto M.md",
+    "🏛/Imob.md",
+    "💻/Git 😾.md",
     "🏛",
-    "📈/Projeto M.md",
     "📈/Meta ADS.md",
     "📈/MDU ❌.md",
     "📈/Segmentação {Meta}.md",
@@ -182,7 +183,6 @@
     "Australia, Melbourne.md",
     "Éden.md",
     "PLR.md",
-    "💻/Git 😾.md",
     "💻/CSS 🪐.md",
     "trabai.md",
     "💻/HTML 🏷.md",
